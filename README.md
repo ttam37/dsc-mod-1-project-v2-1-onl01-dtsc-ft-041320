@@ -1,10 +1,10 @@
 # Finding Success in the Movie Industry
 
+![Image description](https://deprofundisblog.com/wp-content/uploads/2018/03/movie-industry2.jpg)
+
 ## Project Goals
 
 The goal is to conduct data analysis to get a better understanding of the movie industry. We did data analysis on several movie datasets to explore what type of films are doing the best in the box office. We answered several questions in which we will be exploring various relationships of successful film characteristics to determine what type of movie we should create.
-
-------
 
 ## The Datasets
 
@@ -13,8 +13,6 @@ We analyzed the following movie related data from the following sources:
 * IMDB
 * Rotten Tomatoes
 * TheMovieDB.org
-
-------
 
 ## Files in this Repo
 
@@ -27,9 +25,7 @@ We analyzed the following movie related data from the following sources:
    
 ------
 
-## Questions
-
-1. Relationship between Vote Average, Popularity and Profit Margin for Movies (2010 - 2020)
+# Question 1: Relationship between Vote Average, Popularity and Profit Margin for Movies (2010 - 2020)
 
 
 
