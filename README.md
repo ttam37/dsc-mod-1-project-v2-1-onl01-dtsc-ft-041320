@@ -1,34 +1,13 @@
-# Module 1 Final Project
+# Finding Success in the Movie Industry
 
-## Introduction
+## Project Goals
 
-In this lesson, we'll review all of the guidelines and specifications for the final project for Module 1.
+My team wants to create a new movie studio and we want to first better understand the movie industry. We did data analysis on several movie datasets to explore what type of films are doing the best in the box office. We will be exploring various relationships of successful film characteristics to determine what type of movie we should create.
 
-## Objectives
 
-You will be able to:
+# The Datasets
 
-* Describe all required aspects of the final project for Module 1
-* Describe all required deliverables
-* Describe what constitutes a successful project
-* Describe what the experience of the project review should be like
-
-## Final Project Summary
-
-You've made it all the way through the first module of this course - take a minute to celebrate your awesomeness!
-
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-1-project-v2-1/master/awesome.gif)
-
-All that remains in Module 1 is to put our newfound data science skills to use with a final project! You should expect this project to take between 20 and 25 hours of solid, focused effort. If you're done way quicker, go back and dig in deeper or try some of the optional "level up" suggestions. If you're worried that you're going to get to 30 hrs and still not even have the data imported, reach out to an instructor in Slack ASAP to get some help!
-
-## The Project
-
-Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
-Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
-
-# The Dataset
-
-You may scrape or make API calls to get additional data, but included in the repository (in the folder `zippedData`) is some movie-related data from:
+We analyzed the following movie related data from the following sources:
 * Box Office Mojo
 * IMDB
 * Rotten Tomatoes
