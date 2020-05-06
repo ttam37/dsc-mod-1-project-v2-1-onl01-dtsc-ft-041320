@@ -1,6 +1,6 @@
 # Finding Success in the Movie Industry
 
-
+![](images/Movie%20Studios%20Picture.jpg)
 
 ## Project Goals
 
@@ -27,7 +27,7 @@ We analyzed the following movie related data from the following sources:
 
 # Question 1: Relationship between Vote Average, Popularity and Profit Margin for Movies (2010 - 2020)
 
-
+![](images/Q1%20-%20Top%2010%20Popular%20and%20Highly%20Voted.png)
 
 
 ## Summary
