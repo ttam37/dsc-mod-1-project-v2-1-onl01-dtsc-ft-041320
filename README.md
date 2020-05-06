@@ -1,6 +1,6 @@
 # Finding Success in the Movie Industry
 
-![](images/Movie Studios Picture.jpg)
+
 
 ## Project Goals
 
