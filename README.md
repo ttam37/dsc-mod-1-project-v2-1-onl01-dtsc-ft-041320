@@ -29,6 +29,7 @@ We analyzed the following movie related data from the following sources:
 
 
 
+
 ## Summary
 
 The end of module projects and project reviews are a critical part of the program. They give you a chance to both bring together all the skills you've learned into realistic projects and to practice key "business judgement" and communication skills that you otherwise might not get as much practice with.
