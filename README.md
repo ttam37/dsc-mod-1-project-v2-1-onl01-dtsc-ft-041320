@@ -1,6 +1,6 @@
 # Finding Success in the Movie Industry
 
-![Image description](https://deprofundisblog.com/wp-content/uploads/2018/03/movie-industry2.jpg)
+![Image description](images/Movie Studios Picture.jpg)
 
 ## Project Goals
 
