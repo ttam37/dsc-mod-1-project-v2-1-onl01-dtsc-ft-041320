@@ -16,11 +16,13 @@ We analyzed the following movie related data from the following sources:
 
 ## Files in this Repo
 
-1. EDA (Notebook)
-   * We did exploratory data analysis on the datasets and the notebook contains detailed and organized code for each question. Each question will contain meaningful data visualizations with follow up explanations.
-2. Powerpoint Presentation
+1. Datasets Preview
+  * We created a notebook with all the datasets and a preview of each dataset's rows.
+2. EDA (Notebooks)
+   * We did exploratory data analysis on the datasets and the notebooks contain detailed and organized code for each question. Each question will contain meaningful data visualizations with follow up explanations.
+3. Powerpoint Presentation
    * The team gave a high level non-technical overview of our project by providing stakeholders with actionable insights for creating the next big film.
-3. Video Walkthrough
+4. Video Walkthrough
    * I created a personal presentation by providing a better understanding of our analysis. I explained what the project entails and explored each question in detail.
    
 ------
