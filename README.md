@@ -17,7 +17,7 @@ We analyzed the following movie related data from the following sources:
 ## Repo Files
 
 1. Datasets Preview
-  * We created a notebook with all the datasets and a preview of each dataset's rows.
+   * We created a notebook with all the datasets and a preview of each dataset's rows.
 2. EDA (Notebooks)
    * We did exploratory data analysis on the datasets and the notebooks contain detailed and organized code for each question. Each question will contain meaningful data visualizations with follow up explanations.
 3. Powerpoint Presentation
