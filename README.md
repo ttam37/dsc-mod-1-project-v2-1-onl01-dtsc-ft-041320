@@ -25,15 +25,16 @@ We analyzed the following movie related data from the following sources:
 4. Video Walkthrough
    * I created a personal presentation by providing a better understanding of our analysis. I explained what the project entails and explored each question in detail.
    
-------
 ## Exploratory Data Analysis
-The film industry is becoming more competitive and faster paced. In addition, people's taste in films will also change throughout the years based on society changes. In the 40's and 50's, people craved for movies that involved heroism and freedom. In this decade, people are craving drama and action. We focused on films that were more relevant to today's society and want the people want. Times have changed and as we strive to create a new movie in this competitive industry, we focused our efforts on films that were only released in the past decade.
+The film industry is becoming more competitive and faster paced. In addition, people's taste in films change throughout the years based on society changes. In the 40's and 50's, people craved for movies that involved heroism and freedom. Nowadays, people are craving drama and action. We focused on films that were more relevant to today's society and aim to please what the people want. Times have changed and as we strive to create a new movie in this competitive industry, we focused our efforts on films that were only released in the past decade.
 
-### Q1 - What is the distribution for movies in each genre? What are the top 3 genres that film studios create the most?
+## Questions
 
-### Q2 - What are the top 10 most popular and highest rated films? Is there a relationship between popularity and highest rated?
+Q1 - What is the distribution for movies in each genre? What are the top 3 genres that film studios create the most?
 
-### Q3 - What are the top 10 movies with the highest gross profit margin? Is there a relationship between Popularity and Profit Margin?
+Q2 - What are the top 10 most popular and highest rated films? Is there a relationship between popularity and highest rated?
+
+Q3 - What are the top 10 movies with the highest gross profit margin? Is there a relationship between Popularity and Profit Margin?
 
 ## Recommendations
 
